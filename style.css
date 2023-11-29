@@ -319,9 +319,9 @@ header.sticky{
 
 .svt-contents{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(450px, auto));
     align-items: center;
-    gap: 2.5rem;
+    gap: 1.5rem;
     margin-top: 4rem;
 }
 
