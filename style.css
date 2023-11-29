@@ -319,7 +319,7 @@ header.sticky{
 
 .svt-contents{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(450px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
     align-items: center;
     gap: 1.5rem;
     margin-top: 4rem;
